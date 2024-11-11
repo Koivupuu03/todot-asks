@@ -1,0 +1,13 @@
+div {
+    text-align: center;
+    padding: 10px;
+}
+
+input, button {
+    margin: 5px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
